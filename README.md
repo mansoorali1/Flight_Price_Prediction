@@ -53,14 +53,34 @@ Travel agencies need to track and predict fluctuations in flight prices to provi
 ## Directory Structure
 
 ```
-
+C:.
+├───bin
+│       encoder.pkl
+│       features.pkl
+│       model.pkl
+│       pipe.pkl
+│
+├───data
+│       dataset.csv
+│       testset.csv
+│       trainset.csv
+│       Data_Train.xlsx
+│
+├───images
+│       flight_back.png
+│       flight_rotate.gif
+│
+└───src
+        app.py
+        check.ipynb
+        Modelling.py
+        Preprocessing.py
 ```
 ## Data
+[Dataset](https://github.com/mansoorali1/Flight_Price_Prediction/blob/main/data/Data_Train.xlsx)
 ## Output
 ### WebApp UI
 ![Flight_Price_Prediction_UI](https://github.com/mansoorali1/Flight_Price_Prediction/blob/main/images/flight_UI.png)
 
 ### Prediction
 ![Flight_Price_Prediction](https://github.com/mansoorali1/Flight_Price_Prediction/blob/main/images/flight_output.png)
-
-**Youtube URL Application Demo **
