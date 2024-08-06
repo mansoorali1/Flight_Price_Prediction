@@ -84,9 +84,9 @@ def predict_price(pipe, model, df):
 
 if __name__ == "__main__":
     st.title("Flight Price Prediction")
-    set_background("../images/flight_back.png")
+    set_background("./images/flight_back.png")
     user_input_df = get_user_input()
-    gif_placeholder = display_gif("../images/flight_rotate.gif")
+    gif_placeholder = display_gif("./images/flight_rotate.gif")
     pipe, model = load_model_and_pipeline()
 
     if st.button("**Predict**"):
