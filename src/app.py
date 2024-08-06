@@ -70,9 +70,9 @@ def display_gif(gif_file):
 
 def load_model_and_pipeline():
     """Loads the preprocessing pipeline and model from pickle files."""
-    with open(r'..//bin/pipe.pkl', 'rb') as f1:
+    with open(r'./bin/pipe.pkl', 'rb') as f1:
         pipe = pickle.load(f1)
-    with open(r'..//bin/model.pkl', 'rb') as f2:
+    with open(r'./bin/model.pkl', 'rb') as f2:
         model = pickle.load(f2)
     return pipe, model
 
