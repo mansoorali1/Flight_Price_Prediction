@@ -57,7 +57,10 @@ Travel agencies need to track and predict fluctuations in flight prices to provi
 ```
 ## Data
 ## Output
-![US_Visa_Prediction_App](https://github.com/mansoorali1/US_Visa_Approval_Predicton/assets/73877240/9ce44d98-6038-476c-a57b-15b2354f0b2f)
+### WebApp UI
+![Flight_Price_Prediction_UI](https://github.com/mansoorali1/Flight_Price_Prediction/blob/main/images/flight_UI.png)
 
+### Prediction
+![Flight_Price_Prediction](https://github.com/mansoorali1/Flight_Price_Prediction/blob/main/images/flight_output.png)
 
 **Youtube URL Application Demo **
