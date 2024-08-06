@@ -3,7 +3,7 @@ catboost
 lightgbm
 numpy
 pandas
-pickle
+
 sklearn
 streamlit
 xgboost
