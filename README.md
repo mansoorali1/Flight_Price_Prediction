@@ -66,3 +66,6 @@ C:.
 
 ### Prediction
 ![Flight_Price_Prediction](https://github.com/mansoorali1/Flight_Price_Prediction/blob/main/images/flight_output.png)
+
+## Application Link
+Here is the App: https://flightpricepredictionapp.streamlit.app/
