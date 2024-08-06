@@ -7,6 +7,7 @@ Travel agencies need to track and predict fluctuations in flight prices to provi
 - [Directory Structure](#directory-structure)
 - [Data](#data)
 - [Output](#output)
+- [Application Link](#application link)
   
 ## Architecture
 **1. Data Ingestion:**  The data is loaded from local environment used for further processing..
