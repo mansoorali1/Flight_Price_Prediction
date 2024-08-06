@@ -1,7 +1,9 @@
-pandas
-numpy
-sklearn
-xgboost
+base64
 catboost
 lightgbm
+numpy
+pandas
+pickle
+sklearn
 streamlit
+xgboost
